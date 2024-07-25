@@ -2,6 +2,8 @@
 ExtremeEngine is a open souce game engine with C# scripting thats writen in C++ & C# with HLSL and GLSL shader support can be used for 2D and 3D.
 The engine itself using Vulkan for rendering becouse it's cross platform(And supports VR!).
 
+And the engine have his own build-in 3D and 2D physics engine.
+
 The engine now is on devolompent and will be a public build soon as possible (:
 
 The newer BETA version:
