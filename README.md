@@ -1,5 +1,5 @@
-# ![EngineSmallLogo](https://github.com/oscar7070/ExtremeEngine/assets/56559647/2022fa2d-d064-4989-900b-7ebf823fda2b) ExtremeEngine
-ExtremeEngine is a open souce game engine with C# scripting thats writen in C++ & C# with HLSL and GLSL shader support can be used for 2D and 3D.
+# ExtremeEngine
+ExtremeEngine is a open souce game engine with C# scripting thats writen in C++/CLI & C# with HLSL and GLSL shader support can be used for 2D and 3D.
 The engine itself using Vulkan for rendering becouse it's cross platform(And supports VR!).
 And the engine have his own build-in 3D and 2D physics engine.
 
