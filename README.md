@@ -10,5 +10,5 @@ The engine now is on devolompent and will be a public build soon as possible (:
 The newer BETA version:
 ![Screenshot_406](https://github.com/oscar7070/ExtremeEngine/assets/56559647/2d17c973-dfca-4f98-ae30-10eded9fbf79)
 
-The old and ugly BETA:
+The old and ugly prototype:
 ![Screenshot_340](https://github.com/oscar7070/ExtremeEngine/assets/56559647/60597a39-d637-43d9-9137-39e3f2c73317)
