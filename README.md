@@ -1,6 +1,6 @@
 # ExtremeEngine
-ExtremeEngine is a open souce ecs game engine with C#(.NET 9) scripting and supports brandnew SLANG shader language by Khronos.
-The engine written in in C++/CLI & C# can be used for 2D and 3D(but nativly for 3D).
+ExtremeEngine is a open souce Entity Component game engine with C#(.NET 9) scripting and supports brandnew SLANG shader language by Khronos.
+The engine written in in C++ & C# can be used for 2D and 3D(but nativly for 3D).
 ExtremeEngine have his own 3D Physics engine with the name "ExPhysics" if you need 2D physics support you will need to extend ExPhysics or use other physics engine for 2D or lock Z transform.
 The engine itself using Vulkan for rendering and OpenXR for VR support.
 
